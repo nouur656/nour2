@@ -6,12 +6,12 @@ h1{
 .div1{
     width: 100px;
     height: 100px;
-    background : rgb(205, 46, 46);
+    background : rgb(42, 103, 154);
 }
 
 .div2{
     height: 200px;
     width: 100px;
-    background : black
+    background : rgb(2, 88, 162);
     margin-top : 10px;
 }
